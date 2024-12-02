@@ -1,0 +1,11 @@
+[M::mm_idx_gen::36.544*0.99] collected minimizers
+[M::mm_idx_gen::51.692*0.99] sorted minimizers
+[M::main::51.708*0.99] loaded/built the index for 884 target sequence(s)
+[M::mm_mapopt_update::51.708*0.99] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 884
+[M::mm_idx_stat::53.149*0.99] distinct minimizers: 172791157 (97.79% are singletons); average occurrences: 1.273; average spacing: 5.997; total length: 1318855110
+[M::worker_pipeline::5861.149*1.00] mapped 331126 sequences
+[M::worker_pipeline::11868.114*1.00] mapped 331126 sequences
+[M::worker_pipeline::17878.689*1.00] mapped 331126 sequences
+[M::worker_pipeline::23753.923*1.00] mapped 331126 sequences
+slurmstepd: error: *** JOB 59946737 ON holy7c18404 CANCELLED AT 2024-11-28T02:53:35 DUE TO TIME LIMIT ***

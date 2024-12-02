@@ -1,0 +1,17 @@
+[M::mm_idx_gen::24.687*1.58] collected minimizers
+[M::mm_idx_gen::32.904*1.65] sorted minimizers
+[M::main::32.905*1.65] loaded/built the index for 884 target sequence(s)
+[M::mm_mapopt_update::32.905*1.65] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 884
+[M::mm_idx_stat::34.453*1.62] distinct minimizers: 172791157 (97.79% are singletons); average occurrences: 1.273; average spacing: 5.997; total length: 1318855110
+[M::worker_pipeline::2908.321*1.99] mapped 331126 sequences
+[M::worker_pipeline::5835.629*1.99] mapped 331126 sequences
+[M::worker_pipeline::8767.923*1.99] mapped 331126 sequences
+[M::worker_pipeline::11628.034*1.99] mapped 331126 sequences
+[M::worker_pipeline::14337.479*1.99] mapped 331126 sequences
+[M::worker_pipeline::17058.073*1.99] mapped 331126 sequences
+[M::worker_pipeline::19715.965*1.99] mapped 331126 sequences
+[M::worker_pipeline::22318.767*1.99] mapped 331126 sequences
+[M::worker_pipeline::24882.132*1.99] mapped 331126 sequences
+[M::worker_pipeline::27421.936*1.99] mapped 331126 sequences
+slurmstepd: error: *** JOB 59946738 ON holy7c02105 CANCELLED AT 2024-11-28T02:53:35 DUE TO TIME LIMIT ***

@@ -1,0 +1,49 @@
+[M::mm_idx_gen::20.906*1.62] collected minimizers
+[M::mm_idx_gen::22.725*2.12] sorted minimizers
+[M::main::22.725*2.12] loaded/built the index for 884 target sequence(s)
+[M::mm_mapopt_update::22.725*2.12] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 884
+[M::mm_idx_stat::24.122*2.05] distinct minimizers: 172791157 (97.79% are singletons); average occurrences: 1.273; average spacing: 5.997; total length: 1318855110
+[M::worker_pipeline::733.351*7.77] mapped 331126 sequences
+[M::worker_pipeline::1467.135*7.87] mapped 331126 sequences
+[M::worker_pipeline::2202.258*7.91] mapped 331126 sequences
+[M::worker_pipeline::2919.614*7.92] mapped 331126 sequences
+[M::worker_pipeline::3599.092*7.93] mapped 331126 sequences
+[M::worker_pipeline::4281.248*7.94] mapped 331126 sequences
+[M::worker_pipeline::4945.496*7.94] mapped 331126 sequences
+[M::worker_pipeline::5595.428*7.95] mapped 331126 sequences
+[M::worker_pipeline::6236.952*7.95] mapped 331126 sequences
+[M::worker_pipeline::6871.956*7.95] mapped 331126 sequences
+[M::worker_pipeline::7506.376*7.95] mapped 331126 sequences
+[M::worker_pipeline::8161.489*7.95] mapped 331126 sequences
+[M::worker_pipeline::8813.775*7.96] mapped 331126 sequences
+[M::worker_pipeline::9467.998*7.96] mapped 331126 sequences
+[M::worker_pipeline::10103.891*7.96] mapped 331126 sequences
+[M::worker_pipeline::10743.654*7.96] mapped 331126 sequences
+[M::worker_pipeline::11411.148*7.96] mapped 331126 sequences
+[M::worker_pipeline::12065.690*7.96] mapped 331126 sequences
+[M::worker_pipeline::12723.648*7.96] mapped 331126 sequences
+[M::worker_pipeline::13371.901*7.96] mapped 331126 sequences
+[M::worker_pipeline::14046.664*7.96] mapped 331126 sequences
+[M::worker_pipeline::14727.859*7.96] mapped 331126 sequences
+[M::worker_pipeline::15405.597*7.96] mapped 331126 sequences
+[M::worker_pipeline::16128.781*7.96] mapped 331126 sequences
+[M::worker_pipeline::16835.145*7.96] mapped 331126 sequences
+[M::worker_pipeline::17537.180*7.96] mapped 331126 sequences
+[M::worker_pipeline::18253.303*7.97] mapped 331126 sequences
+[M::worker_pipeline::18976.223*7.97] mapped 331126 sequences
+[M::worker_pipeline::19653.541*7.97] mapped 331126 sequences
+[M::worker_pipeline::20338.002*7.97] mapped 331126 sequences
+[M::worker_pipeline::21030.801*7.97] mapped 331126 sequences
+[M::worker_pipeline::21696.367*7.97] mapped 331126 sequences
+[M::worker_pipeline::22368.121*7.97] mapped 331126 sequences
+[M::worker_pipeline::23041.806*7.97] mapped 331126 sequences
+[M::worker_pipeline::23698.125*7.97] mapped 331126 sequences
+[M::worker_pipeline::24376.013*7.97] mapped 331126 sequences
+[M::worker_pipeline::25035.026*7.97] mapped 331126 sequences
+[M::worker_pipeline::25693.828*7.97] mapped 331126 sequences
+[M::worker_pipeline::26369.986*7.97] mapped 331126 sequences
+[M::worker_pipeline::27016.459*7.97] mapped 331126 sequences
+[M::worker_pipeline::27686.500*7.97] mapped 331126 sequences
+[M::worker_pipeline::28363.365*7.97] mapped 331126 sequences
+slurmstepd: error: *** JOB 59946741 ON holy7c02204 CANCELLED AT 2024-11-28T02:53:35 DUE TO TIME LIMIT ***

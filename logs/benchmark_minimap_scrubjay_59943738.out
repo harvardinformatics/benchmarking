@@ -1,0 +1,2 @@
+/var/slurmd/spool/slurmd/job59943738/slurm_script: line 14: 1845143 Killed                  minimap2 -t 16 -o output/benchmark_minimap_scrubjay_16.sam -ax sr aphWoo.v1.fa PREP0311_NMeji15612A_A01v1_20908_bl_S1_L003_R1_001.fastq.gz PREP0311_NMeji15612A_A01v1_20908_bl_S1_L003_R2_001.fastq.gz
+slurmstepd: error: Detected 1 oom_kill event in StepId=59943738.batch. Some of the step tasks have been OOM Killed.

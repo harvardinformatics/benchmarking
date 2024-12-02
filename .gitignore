@@ -1,0 +1,6 @@
+*.fastq*
+*.fasta
+*.bam
+*.fa
+
+output/*

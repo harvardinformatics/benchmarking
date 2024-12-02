@@ -1,0 +1,19 @@
+[M::mm_idx_gen::0.135*0.99] collected minimizers
+[M::mm_idx_gen::0.155*2.48] sorted minimizers
+[M::main::0.156*2.47] loaded/built the index for 1 target sequence(s)
+[M::mm_mapopt_update::0.156*2.47] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 1
+[M::mm_idx_stat::0.164*2.40] distinct minimizers: 757233 (99.27% are singletons); average occurrences: 1.021; average spacing: 6.004; total length: 4641652
+[M::worker_pipeline::2.096*6.95] mapped 551154 sequences
+[M::worker_pipeline::2.793*8.13] mapped 551086 sequences
+[M::worker_pipeline::3.777*9.32] mapped 551300 sequences
+[M::worker_pipeline::4.479*9.29] mapped 550666 sequences
+[M::worker_pipeline::5.183*9.44] mapped 551482 sequences
+[M::worker_pipeline::5.916*9.58] mapped 555232 sequences
+[M::worker_pipeline::6.626*9.60] mapped 555268 sequences
+[M::worker_pipeline::7.332*9.20] mapped 556386 sequences
+[M::worker_pipeline::7.998*8.52] mapped 555330 sequences
+[M::worker_pipeline::8.271*8.27] mapped 206168 sequences
+[M::main] Version: 2.28-r1209
+[M::main] CMD: minimap2 -t 16 -o output/benchmark_minimap_ecoli_16.sam -ax sr ecoli_k12.fasta SRR31129159_1.fastq SRR31129159_2.fastq
+[M::main] Real time: 8.286 sec; CPU: 68.448 sec; Peak RSS: 0.713 GB
